@@ -7,6 +7,10 @@ class AppColors {
   static const Color surfaceVariantDark = Color(0xFF334155);
   static const Color borderDark = Color(0xFF475569);
 
+
+
+    // Developer Dark Theme Palette
+
   // Editor Colors
   static const Color editorBackground = Color(0xFF0D1117); // Github Dark style
   static const Color editorGutter = Color(0xFF161B22);
